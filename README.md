@@ -11,7 +11,8 @@ Lite Weather App is a simple and intuitive weather application built with Flutte
 - **Error Handling**: Displays appropriate messages for invalid locations or errors in fetching weather data.
 
 ## Demo of the app
-To view the video demo of the application features and functionalities [click here](https://drive.google.com/file/d/1JOuxU0L65hzcMGmAFY7OFq0FUsrKn9bP/view?usp=sharing)
+
+To view the video demo of the application features and functionalities [click here]()
 
 ## Getting Started
 
@@ -23,31 +24,36 @@ To view the video demo of the application features and functionalities [click he
 ### Installation
 
 1. **Clone the repository:**
-    ```bash
-    git clone https://github.com/ayadeleke/temp_converter.git
 
-    cd temp_converter
-    ```
+   ```bash
+   git clone
+
+   cd temp_converter
+   ```
 
 2. **Install dependencies:**
-    ```bash
-    flutter pub get
-    ```
+
+   ```bash
+   flutter pub get
+   ```
 
 3. **Run the app:**
-    ```bash
-    flutter run
-    ```
+   ```bash
+   flutter run
+   ```
 
 ## Usage
 
 1. **Search for a location:**
+
    - Enter the location in the search bar and press enter to get the current weather.
 
 2. **Convert temperatures:**
+
    - Use the temperature converter to convert values between Celsius and Fahrenheit.
 
 3. **Switch units:**
+
    - Tap the swap icon in the app bar to switch between Celsius and Fahrenheit.
 
 4. **Reset to initial state:**
