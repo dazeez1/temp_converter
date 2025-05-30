@@ -1,0 +1,1 @@
+ /Users/drdrey/Desktop/temp_converter/.dart_tool/flutter_build/0fd40ec7d6cd05798eaedf0845ad6261/native_assets.yaml: 
